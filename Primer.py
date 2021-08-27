@@ -1,5 +1,4 @@
-def suma(a,b):
-    return(a+b)
+from Suma import suma
 
 def resta(a,b):
     return(a-b)
